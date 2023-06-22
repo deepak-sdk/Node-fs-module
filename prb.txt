@@ -1,0 +1,5 @@
+1. Create a working HTTP server.
+2. Make your server code capable of reading a file 
+using 'fs' module
+3. Based on the request read particular file and 
+send the file content as a part of response(text/string).
